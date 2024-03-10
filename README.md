@@ -23,7 +23,7 @@ To use the Note Taker app:
 
 ## Heroku Deployment
 
-[- Deployed App]()
+[- Deployed App](https://notes4u-f90f4edf5da5.herokuapp.com/notes)
 
 ## License
 This project is licensed under the MIT License
